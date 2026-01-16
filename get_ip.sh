@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "IP ADDRESS : $(hostname -I | awk`(print $1)`)"
+echo "IP ADDRESS : $(hostname -I)"
